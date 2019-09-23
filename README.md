@@ -28,7 +28,7 @@ Construct a vector from the variables the maps a "0" to 0x3C0 (0b1111000000, "sh
 *Fig 2, replayer flow graph*
 
 ![received message](https://github.com/adligeerik/SDR_synthesizer/blob/master/plots_and_photos/threshold_lamp_a_on.png)
-*Fig 3, received message*
+*Fig 3, received message: 1010010000010100101011000*
 
 ## Tricks and tips
 Double check that the timing and length on transmitted bits are right.
