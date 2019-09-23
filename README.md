@@ -33,4 +33,3 @@ Construct a vector from the variables the maps a "0" to 0x3C0 (0b1111000000, "sh
 ## Tricks and tips
 Double check that the timeing and length on transmitted bits are right.
 
-
